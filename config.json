@@ -1,3 +1,4 @@
+
 {
     "api": {
         "id": null,
@@ -61,9 +62,9 @@
         {
             "algo": "cn/upx2",
             "coin": null,
-            "url": "upx.miningocean.org:4332",
-            "user": "YOUR_WALLET_ADDRESS.YOUR_DIFF",
-            "pass": "YOUR_WORKER_NAME",
+            "url": "upx.miningocean.org:4342",
+            "user": "UPX1SAF7CSb62UmjtSk6nqg75aMJwkebuJDwdjzGwP2J1DgACM2TGMURSySeYp4Nt7c7tpe9DBwAHFcBMboTPzvj8Rucey6PKU",
+            "pass": "bundyslilhelper2",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
